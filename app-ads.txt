@@ -6,4 +6,3 @@
 # Google Play Console requirement compliance
 
 google.com, pub-3444706668426339, DIRECT, f08c47fec0942fa0
-    
