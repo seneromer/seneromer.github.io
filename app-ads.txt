@@ -1,0 +1,9 @@
+# app-ads.txt for Lord Simulator
+# IAB Tech Lab specification compliant
+# Generated: 2025-09-04
+# Developer: CarddiSoft
+# Contact: developer@carddisoft.com
+# Google Play Console requirement compliance
+
+google.com, pub-3444706668426339, DIRECT, f08c47fec0942fa0
+    
